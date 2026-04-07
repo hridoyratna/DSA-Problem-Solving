@@ -36,9 +36,8 @@ Problems are solved from:
 
 ## 📈 LeetCode Stats
 
-Replace `yourleetcodeusername` with your LeetCode username.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yourleetcodeusername)
+![LeetCode Stats](https://leetcard.jacoblin.cool/E3pSRcEWGP)
 
 ---
 
@@ -47,19 +46,30 @@ Replace `yourleetcodeusername` with your LeetCode username.
 ```
 DSA-Problem-Solving
 │
+├── README.md
+├── progress_tracker.md
+│
 ├── Arrays
-├── Strings
+│   ├── easy
+│   │   └── two_sum
+│   │       ├── solution.cpp
+│   │       └── explanation.md
+│   │
+│   ├── medium
+│   │   └── product_of_array_except_self
+│   │       ├── solution.cpp
+│   │       └── explanation.md
+│
 ├── Sliding_Window
-├── Two_Pointers
-├── Binary_Search
-├── Linked_List
-├── Stack
-├── Queue
-├── Trees
+│   └── medium
+│       └── subarray_product_less_than_k
+│           ├── solution.cpp
+│           └── explanation.md
+│
 ├── Graph
-├── Dynamic_Programming
-├── Greedy
-└── Backtracking
+│   └── medium
+│
+└── Dynamic_Programming
 ```
 
 Each problem folder contains:
@@ -114,8 +124,7 @@ Example:
 
 ## 🔗 Connect With Me
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
+* LinkedIn: https://www.linkedin.com/in/hridoy-ratna
 
 ---
 
