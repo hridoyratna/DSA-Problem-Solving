@@ -27,10 +27,10 @@ Problems are solved from:
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 0      |
-| 🟡 Medium  | 0      |
-| 🔴 Hard    | 0      |
-| **Total**  | **0**  |
+| 🟢 Easy    | 10      |
+| 🟡 Medium  | 11      |
+| 🔴 Hard    | 1      |
+| **Total**  | **22**  |
 
 ---
 
@@ -82,11 +82,11 @@ Each problem folder contains:
 
 ## 🗺️ DSA Roadmap
 
-* [ ] Arrays
-* [ ] Strings
-* [ ] Sliding Window
-* [ ] Two Pointers
-* [ ] Binary Search
+* [✅] Arrays
+* [✅] Strings
+* [✅] Sliding Window
+* [✅] Two Pointers
+* [✅] Binary Search
 * [ ] Linked List
 * [ ] Stack
 * [ ] Queue
@@ -96,20 +96,6 @@ Each problem folder contains:
 * [ ] Greedy
 * [ ] Backtracking
 * [ ] Bit Manipulation
-
----
-
-## 📅 Daily Coding Challenge
-
-| Date       | Problem      | Platform |
-| ---------- | ------------ | -------- |
-| YYYY-MM-DD | Problem Name | Platform |
-
-Example:
-
-| Date       | Problem                      | Platform |
-| ---------- | ---------------------------- | -------- |
-| 2026-04-07 | Subarray Product Less Than K | LeetCode |
 
 ---
 
